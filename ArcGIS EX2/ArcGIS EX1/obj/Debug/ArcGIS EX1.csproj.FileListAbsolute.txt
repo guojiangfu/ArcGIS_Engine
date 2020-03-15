@@ -1,0 +1,14 @@
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\bin\Debug\ArcGIS EX1.exe.config
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\bin\Debug\ArcGIS EX1.exe
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\bin\Debug\ArcGIS EX1.pdb
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS EX1.csprojResolveAssemblyReference.cache
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS_EX1.Form1.resources
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS_EX1.Properties.Resources.resources
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS EX1.csproj.GenerateResource.Cache
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS EX1.exe
+E:\ArcGIS开发\GISAPP\ArcGIS EX1\ArcGIS EX1\obj\Debug\ArcGIS EX1.pdb
+E:\ArcGIS开发\实验\ArcGIS EX2\ArcGIS EX1\bin\Debug\ArcGIS EX1.exe.config
+E:\ArcGIS开发\实验\ArcGIS EX2\ArcGIS EX1\obj\Debug\ArcGIS EX1.exe
+E:\ArcGIS开发\实验\ArcGIS EX2\ArcGIS EX1\obj\Debug\ArcGIS EX1.pdb

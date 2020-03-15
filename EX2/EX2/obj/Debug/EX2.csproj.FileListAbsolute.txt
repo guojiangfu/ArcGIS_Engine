@@ -1,0 +1,11 @@
+E:\ArcGIS开发\实验\EX2\EX2\bin\Debug\EX2.exe.config
+E:\ArcGIS开发\实验\EX2\EX2\bin\Debug\EX2.exe
+E:\ArcGIS开发\实验\EX2\EX2\bin\Debug\EX2.pdb
+E:\ArcGIS开发\实验\EX2\EX2\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\ArcGIS开发\实验\EX2\EX2\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.csprojResolveAssemblyReference.cache
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.Form1.resources
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.Properties.Resources.resources
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.csproj.GenerateResource.Cache
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.exe
+E:\ArcGIS开发\实验\EX2\EX2\obj\Debug\EX2.pdb
